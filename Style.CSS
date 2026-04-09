@@ -1,0 +1,14 @@
+body {
+  background: #0a0a0a;
+  color: rgba(255, 255, 255, 0.71);
+}
+
+.btn-neon {
+  background: #00ff88;
+  color: black;
+  font-weight: bold;
+}
+
+.btn-neon:hover {
+  box-shadow: 0 0 10px #00ff88;
+}
